@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<phraseset audiolocation="internal" filename="Prj" version="1.0">
+    <phrase version="1.0">
+        <displayname>HolidayPrompt</displayname>
+        <talent/>
+        <phrasetext>Its Holiday , Call us Later Time&#13;
+</phrasetext>
+        <basetext/>
+        <searchkeywords/>
+        <comments/>
+        <audiofile>HolidayPrompt.wav</audiofile>
+    </phrase>
+</phraseset>
